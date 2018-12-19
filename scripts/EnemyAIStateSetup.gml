@@ -1,0 +1,36 @@
+enum states {
+idle,
+whoAmI,
+patrol,
+alert,
+attack,
+die,
+searching,
+runToLastPoint,
+headHome,
+headHomeAfterAlert,
+killedPlayer,
+lurk,
+wander,
+takeABreak,
+hungry,
+needsToilet,
+tired,
+foundDeadBody,
+searchingForKiller,
+atDeadBody,
+hasAChat,
+bored,
+heardSomething,
+dueling,
+shoot,
+blocking,
+strike,
+intercept,
+chasing,
+mingle,
+
+imDifferent
+}
+
+states = states.idle;

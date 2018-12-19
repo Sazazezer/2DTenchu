@@ -1,0 +1,3 @@
+//declare Staritng variables
+
+
